@@ -1,1 +1,1 @@
-# Cs2StatusPlugin
+# Cs2 Status Plugin
